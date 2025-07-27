@@ -2,5 +2,7 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">10.0.2.2</domain>
+<!--        for real devices-->
+<!--        <domain includeSubdomains="true">10.73.66.69</domain>-->
     </domain-config>
 </network-security-config>

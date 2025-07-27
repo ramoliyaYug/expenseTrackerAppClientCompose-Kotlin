@@ -14,6 +14,8 @@ import javax.inject.Singleton
 object NetworkModule {
 
     private val baseUrl = "http://10.0.2.2:8000/"
+//    for reel device
+//    private val baseUrl = "http://10.73.66.69:8000/"
 
     @Provides
     @Singleton
