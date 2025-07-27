@@ -36,5 +36,10 @@ This app requires a backend server to run. You must clone and run this backend r
 ➡️ **Backend Repository:**  
 [Expense Tracker API (Spring Boot + Kotlin)](https://github.com/ramoliyaYug/expenseTrackerAppBackendSpringBoot-Kotlin)
 
+🚨 **In Case Of Error Connecting Frontend And Backend**
+<br>
+[Medium Article](https://medium.com/@ramoliyayug55/cleartext-not-permitted-and-socket-errors-in-android-retrofit-spring-boot-kotlin-2efad0e01253)
+
+
 🖥️ Backend should be running on:  
 `http://10.0.2.2:8000` (for Android Emulator)
